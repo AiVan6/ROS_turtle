@@ -1,0 +1,2 @@
+lr
+-DCATKIN_DEVEL_PREFIX=/home/tonatos/ex_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tonatos/ex_ws/install -G Unix Makefiles
